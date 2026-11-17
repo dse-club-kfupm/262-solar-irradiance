@@ -1,4 +1,4 @@
-"""Submission entry point for 262-suncast.
+"""Submission entry point for 262-solar-irradiance.
 
 The committee calls predict(df) once on the hidden test set. df has the test
 columns described in the README. Return a number (kWh/m² per day) per row,
